@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "cal9"
+    }
+  },
+  "defaultProject": "cal9",
+  "cli": {
+    "analytics": "e6f1ec83-618c-4f6b-8a88-b9f2369fea3a"
+  }
 }
